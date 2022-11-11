@@ -2,4 +2,4 @@ Student name: Dink Appelman
 Student number: 706072
 Student class: Inf1C
 aerallo.github.io
-github.com/username/aerallo.github.io
+github.com/aerallo/aerallo.github.io
